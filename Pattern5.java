@@ -12,10 +12,10 @@ public static void main(String[] args)
 			System.out.println();
 		}
  
-          for(i=70;i>=65;i--) 
+          for(i=65;i<=70;i++) 
                    {
 
-                    for(j=70;j>=i;j--)
+                    for(j=i;j>=65;j--)
                      
                     System.out.print((char)j+" ");
                  
